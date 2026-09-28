@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://jvteixeira.github.io/ctl/sitemap.xml
